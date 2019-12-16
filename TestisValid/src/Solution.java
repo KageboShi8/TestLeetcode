@@ -13,7 +13,7 @@ public class Solution {
 
     public static void main(String[] args) {
         String brackets = "}";
-        boolean result = isValid(brackets);
+        boolean result = isValid1(brackets);
         System.out.println(result);
     }
 
@@ -37,5 +37,42 @@ public class Solution {
         return stack.empty();
     }
 
+    private static boolean isValid1(String s) {
+        map.put('(', ')');
+        map.put('[', ']');
+        map.put('{', '}');
+        Stack<Character> stack = new Stack<>();
+        for (int i = 0; i < s.length(); i++) {
+//            if (stack.isEmpty()) {
+//                if (map.containsKey(s.charAt(i))) {
+//                    stack.push(s.charAt(i));
+//                } else {
+//                    return false;
+//                }
+//            } else {
+//                if (map.containsKey(s.charAt(i))) {
+//                    stack.push(s.charAt(i));
+//                } else {
+//                    Character pop = stack.pop();
+//                    if (map.get(pop).equals(s.charAt(i))) {
+//                        continue;
+//                    } else {
+//                        return false;
+//                    }
+//                }
+//            }
+            if (map.containsKey(s.charAt(i))) {
+                stack.push(s.charAt(i));
+            } else if (!stack.isEmpty() && map.get(stack.pop()).equals(s.charAt(i))) {
+
+            } else {
+                return false;
+            }
+
+        }
+        return stack.isEmpty();
+
+
+    }
 
 }
