@@ -1,5 +1,6 @@
 import java.util.LinkedList;
 import java.util.Stack;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * leetcode 109 有序链表转二叉搜索树  同样的二分法  这种链表转二叉树的问题 又有序  自然二分法，或者叫分治法是最优思路。
@@ -33,6 +34,7 @@ public class Solution {
         ListNode root = initList();
         TreeNode result = sortedListToBST(root);
         levelOrder(result);
+
     }
 
     private static ListNode initList() {
@@ -50,16 +52,16 @@ public class Solution {
     }
 
     private static TreeNode sortedListToBST(ListNode root) {
-        if (root==null){
+        if (root == null) {
             return null;
         }
-        ListNode middlePtr=getMiddle(root);
-        TreeNode treeNode=new TreeNode(middlePtr.val);
-        if (root==middlePtr){
+        ListNode middlePtr = getMiddle(root);
+        TreeNode treeNode = new TreeNode(middlePtr.val);
+        if (root == middlePtr) {
             return treeNode;
         }
-        treeNode.left=sortedListToBST(root);
-        treeNode.right=sortedListToBST(middlePtr.next);
+        treeNode.left = sortedListToBST(root);
+        treeNode.right = sortedListToBST(middlePtr.next);
         return treeNode;
     }
 
