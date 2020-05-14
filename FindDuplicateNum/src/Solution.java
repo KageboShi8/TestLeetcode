@@ -24,6 +24,7 @@ public class Solution {
         int slow = 0;
         while (true) {
             fast = nums[nums[fast]];
+            
             slow = nums[slow];
             if (slow == fast) {
                 fast = 0;
