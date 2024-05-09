@@ -2,9 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1973719e-c19a-4874-83a8-f7ab7c8a2682" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/TestLeetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindDuplicateNum/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListNodeNumPlusTest/ListNodeNumPlusTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListNodeNumPlusTest/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeNum/MergeNum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeNum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NextBigNumInLinked/NextBig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NextBigNumInLinked/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCoinChange/TestCoinChange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCoinChange/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCombinationSum4/TestCombinationSum4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCombinationSum4/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFindMaxForm/TestFindMaxForm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFindMaxForm/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFindTargetSubway/TestFindTargetSubway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestFindTargetSubway/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestIsSubChar/TestIsSubChar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestIsSubChar/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestLastStoneWeightII/TestLastStoneWeightII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestLastStoneWeightII/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestLengthOfLIS/TestLengthOfLIS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestLengthOfLIS/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestLongestPalindromeSubseq/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMaxCoins/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMaxSubArray/TestMaxSubArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMaxSubArray/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNumRollsToTarget/TestNumRollsToTarget.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNumRollsToTarget/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNumSquares/TestNumSquares.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNumSquares/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTribonacci/TestTribonacci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTribonacci/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestWordBreak/TestWordBreak.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestWordBreak/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestcanPartition/TestcanPartition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestcanPartition/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testchange/Testchange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testchange/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestcountSquares/TestcountSquares.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestcountSquares/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestfindLength/TestfindLength.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestfindLength/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestintegerBreak/TestintegerBreak.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestintegerBreak/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestlenLongestFibSubseq/TestlenLongestFibSubseq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestlenLongestFibSubseq/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestlongestCommonSubsequence/TestlongestCommonSubsequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestlongestCommonSubsequence/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestmaximalSquare/TestmaximalSquare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestmaximalSquare/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestminDistance/TestminDistance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestminDistance/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestminPathSum/TestminPathSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestminPathSum/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestminSteps/TestminSteps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestminSteps/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestuniquePath/TestuniquePath.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestuniquePath/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getMoneyAmount/getMoneyAmount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getMoneyAmount/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FindDuplicateNum/out/production/FindDuplicateNum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FindDuplicateNum/out/production/FindDuplicateNum/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,22 +83,17 @@
   </component>
   <component name="ProjectId" id="1S0I0ojgdCXhOTLWdOAqROj1bhL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -53,6 +109,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -80,13 +137,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
