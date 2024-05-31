@@ -30,18 +30,19 @@ public class Solution {
         outLists(result);
     }
 
-    //迭代
+    //    迭代
     private static ListNode reserveList2(ListNode head) {
-        ListNode curr=head;
-        ListNode prev=null;
-        while (curr!=null){
-            ListNode temp2=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=temp2;
+        ListNode curr = head;
+        ListNode prev = null;
+        while (curr != null) {
+            ListNode temp2 = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp2;
         }
         return prev;
     }
+
 
     //递归
     private static ListNode reserveList1(ListNode head) {
@@ -53,6 +54,7 @@ public class Solution {
         head.next = null;
         return p;
     }
+
 
 
     private static ListNode initListNode() {

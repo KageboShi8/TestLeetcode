@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * leetcode 94 二叉树的中序遍历 关于morris遍历倒是看懂了。主要是对于后置节点的应用。在后置节点为null时，调整后置节点位置为遍历的下一位，然后再操作拆除它。非常精妙的省空间的方法。
@@ -26,6 +24,7 @@ public class Solution {
         outList(result);
     }
 
+
     //递归
     public static List<Integer> inorderTraversal(TreeNode root) {
         if (root == null) {
@@ -38,23 +37,40 @@ public class Solution {
     }
 
     //迭代 迭代的话要注意栈的使用  和先序遍历不同，这里的栈要先把left全入栈，再进行后面的操作
+//    public static List<Integer> inorderTraversal1(TreeNode root) {
+//        List<Integer> result = new ArrayList<>();
+//        if (root == null) return result;
+//        Stack<TreeNode> stack = new Stack<>();
+//        TreeNode curr = root;
+//        while (curr != null || !stack.isEmpty()) {
+//            while (curr != null) {
+//                stack.push(curr);
+//                curr = curr.left;
+//            }
+//            curr = stack.pop();
+//            result.add(curr.val);
+//            curr = curr.right;
+//        }
+//
+//
+//        return result;
+//    }
+
     public static List<Integer> inorderTraversal1(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        if (root == null) return result;
-        Stack<TreeNode> stack = new Stack<>();
-        TreeNode curr = root;
-        while (curr != null || !stack.isEmpty()) {
-            while (curr != null) {
-                stack.push(curr);
-                curr = curr.left;
+        Deque<TreeNode> deque = new ArrayDeque<TreeNode>();
+        while (!deque.isEmpty() || root != null) {
+            if (root!=null){
+                deque.add(root);
+                root=root.left;
+            }else {
+                TreeNode pop = deque.pop();
+                list.add(pop.val);
+                root=pop.right;
             }
-            curr = stack.pop();
-            result.add(curr.val);
-            curr = curr.right;
         }
+        return list;
 
 
-        return result;
     }
 
     //morris遍历 线索二叉树
@@ -68,17 +84,17 @@ public class Solution {
                 result.add(node.val);
                 node = node.right;
             } else {
-                prev=node.left;
-                while (prev.right!=null&&prev.right!=node){
-                    prev=prev.right;
+                prev = node.left;
+                while (prev.right != null && prev.right != node) {
+                    prev = prev.right;
                 }
-                if (prev.right==null){
-                    prev.right=node;
-                    node=node.left;
-                }else {
+                if (prev.right == null) {
+                    prev.right = node;
+                    node = node.left;
+                } else {
                     result.add(node.val);
-                    prev.right=null;
-                    node=node.right;
+                    prev.right = null;
+                    node = node.right;
                 }
             }
         }

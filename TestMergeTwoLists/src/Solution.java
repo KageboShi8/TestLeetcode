@@ -20,7 +20,7 @@ public class Solution {
         ListNode listNode1 = initListNode1();
         ListNode listNode2 = initListNode2();
 
-        ListNode result = mergeTwoLists2(listNode1, listNode2);
+        ListNode result = mergeTwoLists(listNode1, listNode2);
         outListNode(result);
     }
 

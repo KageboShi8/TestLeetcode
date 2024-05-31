@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FindDuplicateNum/FindDuplicateNum.iml" filepath="$PROJECT_DIR$/FindDuplicateNum/FindDuplicateNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HasCycle/HasCycle.iml" filepath="$PROJECT_DIR$/HasCycle/HasCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestAddTwoNumber/TestAddTwoNumber.iml" filepath="$PROJECT_DIR$/TestAddTwoNumber/TestAddTwoNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestBuildTree/TestBuildTree.iml" filepath="$PROJECT_DIR$/TestBuildTree/TestBuildTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestBuildTree2/TestBuildTree2.iml" filepath="$PROJECT_DIR$/TestBuildTree2/TestBuildTree2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestBuildTree3/TestBuildTree3.iml" filepath="$PROJECT_DIR$/TestBuildTree3/TestBuildTree3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDivide/TestDivide.iml" filepath="$PROJECT_DIR$/TestDivide/TestDivide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFindMedianSortedArrays/TestFindMedianSortedArrays.iml" filepath="$PROJECT_DIR$/TestFindMedianSortedArrays/TestFindMedianSortedArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFindSubstring/TestFindSubstring.iml" filepath="$PROJECT_DIR$/TestFindSubstring/TestFindSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFlatten/TestFlatten.iml" filepath="$PROJECT_DIR$/TestFlatten/TestFlatten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFourSum/TestFourSum.iml" filepath="$PROJECT_DIR$/TestFourSum/TestFourSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestGenerateParenthesis/TestGenerateParenthesis.iml" filepath="$PROJECT_DIR$/TestGenerateParenthesis/TestGenerateParenthesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestInOrderTraversal/TestInOrderTraversal.iml" filepath="$PROJECT_DIR$/TestInOrderTraversal/TestInOrderTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestIntToRoman/TestIntToRoman.iml" filepath="$PROJECT_DIR$/TestIntToRoman/TestIntToRoman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestLeetcode.iml" filepath="$PROJECT_DIR$/.idea/TestLeetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLengthOfLongestSubstring/TestLengthOfLongestSubstring.iml" filepath="$PROJECT_DIR$/TestLengthOfLongestSubstring/TestLengthOfLongestSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLevelOrder/TestLevelOrder.iml" filepath="$PROJECT_DIR$/TestLevelOrder/TestLevelOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLevelOrderBottom/TestLevelOrderBottom.iml" filepath="$PROJECT_DIR$/TestLevelOrderBottom/TestLevelOrderBottom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLevelOrderN/TestLevelOrderN.iml" filepath="$PROJECT_DIR$/TestLevelOrderN/TestLevelOrderN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestListSum/TestListSum.iml" filepath="$PROJECT_DIR$/TestListSum/TestListSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLongestCommonPrefix/TestLongestCommonPrefix.iml" filepath="$PROJECT_DIR$/TestLongestCommonPrefix/TestLongestCommonPrefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLongestPalindrome/TestLongestPalindrome.iml" filepath="$PROJECT_DIR$/TestLongestPalindrome/TestLongestPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLongestValidParentheses/TestLongestValidParentheses.iml" filepath="$PROJECT_DIR$/TestLongestValidParentheses/TestLongestValidParentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMaxArea/TestMaxArea.iml" filepath="$PROJECT_DIR$/TestMaxArea/TestMaxArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMaxDepth/TestMaxDepth.iml" filepath="$PROJECT_DIR$/TestMaxDepth/TestMaxDepth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMergeKLists/TestMergeKLists.iml" filepath="$PROJECT_DIR$/TestMergeKLists/TestMergeKLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMergeTwoLists/TestMergeTwoLists.iml" filepath="$PROJECT_DIR$/TestMergeTwoLists/TestMergeTwoLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMyAtoi/TestMyAtoi.iml" filepath="$PROJECT_DIR$/TestMyAtoi/TestMyAtoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNextPemutation/TestNextPemutation.iml" filepath="$PROJECT_DIR$/TestNextPemutation/TestNextPemutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNumberCombination/TestNumberCombination.iml" filepath="$PROJECT_DIR$/TestNumberCombination/TestNumberCombination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPalindrome/TestPalindrome.iml" filepath="$PROJECT_DIR$/TestPalindrome/TestPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPatternMatch/TestPatternMatch.iml" filepath="$PROJECT_DIR$/TestPatternMatch/TestPatternMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPostOrderTraversal/TestPostOrderTraversal.iml" filepath="$PROJECT_DIR$/TestPostOrderTraversal/TestPostOrderTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPreOrderTraversal/TestPreOrderTraversal.iml" filepath="$PROJECT_DIR$/TestPreOrderTraversal/TestPreOrderTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRemoveDuplicates/TestRemoveDuplicates.iml" filepath="$PROJECT_DIR$/TestRemoveDuplicates/TestRemoveDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRemoveElement/TestRemoveElement.iml" filepath="$PROJECT_DIR$/TestRemoveElement/TestRemoveElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRemoveInvalidParentheses/TestRemoveInvalidParentheses.iml" filepath="$PROJECT_DIR$/TestRemoveInvalidParentheses/TestRemoveInvalidParentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRemoveNthFromEnd/TestRemoveNthFromEnd.iml" filepath="$PROJECT_DIR$/TestRemoveNthFromEnd/TestRemoveNthFromEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestReserveList/TestReserveList.iml" filepath="$PROJECT_DIR$/TestReserveList/TestReserveList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestReverseBetween/TestReverseBetween.iml" filepath="$PROJECT_DIR$/TestReverseBetween/TestReverseBetween.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestReverseInt/TestReverseInt.iml" filepath="$PROJECT_DIR$/TestReverseInt/TestReverseInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestReverseKGroups/TestReverseKGroups.iml" filepath="$PROJECT_DIR$/TestReverseKGroups/TestReverseKGroups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRomanToInt/TestRomanToInt.iml" filepath="$PROJECT_DIR$/TestRomanToInt/TestRomanToInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSortedArrayToBST/TestSortedArrayToBST.iml" filepath="$PROJECT_DIR$/TestSortedArrayToBST/TestSortedArrayToBST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestStrStr/TestStrStr.iml" filepath="$PROJECT_DIR$/TestStrStr/TestStrStr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSwapPairs/TestSwapPairs.iml" filepath="$PROJECT_DIR$/TestSwapPairs/TestSwapPairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThreeSum/TestThreeSum.iml" filepath="$PROJECT_DIR$/TestThreeSum/TestThreeSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThreeSumClosest/TestThreeSumClosest.iml" filepath="$PROJECT_DIR$/TestThreeSumClosest/TestThreeSumClosest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestTwoSum/TestTwoSum.iml" filepath="$PROJECT_DIR$/TestTwoSum/TestTwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestVerticalTraversal/TestVerticalTraversal.iml" filepath="$PROJECT_DIR$/TestVerticalTraversal/TestVerticalTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestWildcardMatching/TestWildcardMatching.iml" filepath="$PROJECT_DIR$/TestWildcardMatching/TestWildcardMatching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestZigZag/TestZigZag.iml" filepath="$PROJECT_DIR$/TestZigZag/TestZigZag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestZigZagLevelOrder/TestZigZagLevelOrder.iml" filepath="$PROJECT_DIR$/TestZigZagLevelOrder/TestZigZagLevelOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestisValid/TestisValid.iml" filepath="$PROJECT_DIR$/TestisValid/TestisValid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortedListToBST/sortedListToBST.iml" filepath="$PROJECT_DIR$/sortedListToBST/sortedListToBST.iml" />
+    </modules>
+  </component>
+</project>
